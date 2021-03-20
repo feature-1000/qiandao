@@ -1,5 +1,5 @@
 # Auto-report action script, 3 times a day
-name: Auto_Attendance_GitHub_Action
+name: qiandao
 
 on:
   workflow_dispatch:
