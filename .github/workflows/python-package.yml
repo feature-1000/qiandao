@@ -1,5 +1,5 @@
 # Auto-report action script, 3 times a day
-name: qiandao
+name: Python package
 
 on:
   workflow_dispatch:
