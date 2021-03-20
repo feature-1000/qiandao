@@ -29,4 +29,4 @@ jobs:
         #STUID: ${{ secrets.Stuid }}
         #PASSWORD: ${{ secrets.Password }}
       run: |
-        python report.py 
+        python 签到requests.py
